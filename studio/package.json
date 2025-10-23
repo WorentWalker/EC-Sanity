@@ -17,7 +17,6 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@sanity/assist": "^5.1.0",
     "@sanity/icons": "^3.7.4",
     "@sanity/vision": "^4.11.0",
     "date-fns": "^4.1.0",
