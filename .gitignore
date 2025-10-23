@@ -45,3 +45,4 @@ studio/dist/
 # Misc
 *.pid
 *.seed
+.vercel

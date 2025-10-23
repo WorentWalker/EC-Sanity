@@ -32,5 +32,9 @@
     "@sanity/eslint-config-studio": "^5.0.2",
     "@types/react": "^18.2.66",
     "typescript": "^5.9.2"
+  },
+  "overrides": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   }
 }
