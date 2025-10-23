@@ -1,0 +1,47 @@
+# Node
+node_modules/
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.vscode/
+.idea/
+*.swp
+
+# Env files (keep examples)
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# TypeScript
+*.tsbuildinfo
+
+# Next.js
+.next/
+out/
+.vercel/
+
+# Build outputs / caches
+.dist/
+dist/
+.cache/
+.turbo/
+.parcel-cache/
+coverage/
+
+# Sanity
+.sanity/
+studio/dist/
+
+# Misc
+*.pid
+*.seed
