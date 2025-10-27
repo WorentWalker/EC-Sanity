@@ -53,13 +53,7 @@ export default defineConfig({
   dataset,
 
   plugins: [
-    // presentationTool({...})
-    structureTool({
-      structure, // Custom studio structure configuration, imported from ./src/structure.ts
-    }),
-    // Additional plugins for enhanced functionality
-    unsplashImageAsset(),
-    visionTool(),
+    // Temporarily removed all plugins to isolate workspace context error
   ],
 
   // Schema configuration, imported from ./src/schemaTypes/index.ts
